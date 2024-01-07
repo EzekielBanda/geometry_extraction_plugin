@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/district_map_extractor" >
+        <file>icon1.png</file>
+    </qresource>
+</RCC>
